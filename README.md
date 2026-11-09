@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://personal-portfolio-nine-sigma-77.vercel.app/">Website</a> &bull;
-  <a href="https://github.com/umair6699182">GitHub</a> &bull;
+  <a href="https://github.com/umair-commit">GitHub</a> &bull;
   <a href="https://linkedin.com/in/umair malik">LinkedIn</a> &bull;
   <a href="mailto:um83414@gmail.com">Email</a>
 </p>
